@@ -16,6 +16,7 @@ main {
   padding: 5vh;
   background-color: #666666;
   height: 90vh;
+  overflow: hidden;
 }
 
 h1 {

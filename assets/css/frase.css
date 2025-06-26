@@ -21,8 +21,8 @@ p {
 #testoAlternato {
   overflow: hidden;
   white-space: nowrap;
-  width: 100%;
-  height: 40vh;
+  width: 70%;
+  height: 30vh;
 }
 
 .rotatingWord {
